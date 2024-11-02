@@ -51,11 +51,11 @@
 
         layer_keypad {
             bindings = <
- &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5                &to 0                                                                     &mo 3  &kp N6  &kp KP_NUM  &kp KP_EQUAL  &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp MINUS
-   &kp TAB      &kp Q     &kp L     &kp U      &kp Y   &kp P            &kp LC(A)                                                                 &kp LC(F)   &kp F       &kp W         &kp R          &kp J            &kp P   &kp BSLH
-   &kp ESC      &kp E     &kp I     &kp A      &kp O   &kp H            &kp LC(S)  &kp LCTRL  &kp LEFT_ALT                  &kp MINUS  &kp GRAVE  &kp LC(Z)   &kp K       &kp T         &kp N          &kp S            &kp H    &kp SQT
- &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                                      &kp HOME                  &kp COMMA                         &kp G       &kp D         &kp M          &kp Z            &kp B  &kp RSHFT
-     &mo 0  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                     &kp BSPC    &kp DEL       &kp END                    &kp DOT  &kp SPACE  &kp ENTER            &kp DOWN        &kp UP       &kp LEFT        &kp RIGHT      &mo 2
+ &kp EQUAL     &kp N1    &kp N2     &kp N3    &kp N4  &kp N5                &to 0                                                                     &mo 3  &kp N6  &kp KP_NUM  &kp KP_EQUAL  &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp MINUS
+   &kp TAB      &kp Q     &kp L      &kp U     &kp Y   &kp P            &kp LC(A)                                                                 &kp LC(F)   &kp F       &kp W         &kp R          &kp J            &kp P   &kp BSLH
+   &kp ESC      &kp E     &kp I      &kp A     &kp O   &kp H            &kp LC(S)  &kp LCTRL  &kp LEFT_ALT                  &kp MINUS  &kp GRAVE  &kp LC(Z)   &kp K       &kp T         &kp N          &kp S            &kp H    &kp SQT
+ &kp LSHFT      &kp Z     &kp X      &kp C     &kp V   &kp B                                      &kp HOME                  &kp COMMA                         &kp G       &kp D         &kp M          &kp Z            &kp B  &kp RSHFT
+     &mo 0  &kp GRAVE  &kp CAPS  &kp LC(A)  &kp DLLR                     &kp BSPC    &kp DEL       &kp END                    &kp DOT  &kp SPACE  &kp ENTER            &kp DOWN        &kp UP       &kp LEFT        &kp RIGHT      &mo 2
             >;
         };
 
